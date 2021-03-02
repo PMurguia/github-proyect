@@ -11,6 +11,7 @@ function App() {
   }
   return (
     <>
+    <p>Hello</p>
     <p>{cont}</p>
     <button onClick={clickToAdd}>Click me</button>
     </>
